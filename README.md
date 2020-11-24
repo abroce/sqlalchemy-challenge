@@ -1,6 +1,6 @@
 # Surfs Up!
 Demonstrating SQL and SQLAlchemy 
-![surfs-up.png](Images/surfs-up.png)
+![surfs-up.png](surfs-up.png)
 ## Step 1 - Climate Analysis and Exploration
 I am planning a trip to Hawaii and want to explore trends in weather. The trip is planned for August 02, 2017 through August 12, 2017
 ### Precipitation Analysis
@@ -9,7 +9,7 @@ I am planning a trip to Hawaii and want to explore trends in weather. The trip i
 * Load the query results into a Pandas DataFrame and set the index to the date column
 * Sort the DataFrame values by date
 * Plot the results using the DataFrame plot method
-![precipitation](Images/precipitation.png)
+![precipitation](precipitation.png)
 * Use Pandas to print the summary statistics for the precipitation data
 
 ### Station Analysis
