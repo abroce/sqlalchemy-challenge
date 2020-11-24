@@ -20,7 +20,7 @@ I am planning a trip to Hawaii and want to explore trends in weather. The trip i
 * Design a query to retrieve the last 12 months of temperature observation data (TOBS).
   * Filter by the station with the highest number of observations.
   * Plot the results as a histogram with `bins=12`.
-    ![station-histogram](Images/station-histogram.png)
+    ![station-histogram](station-histogram.png)
     
 ## Step 2 - Climate App
 
